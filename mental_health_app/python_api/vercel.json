@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "builds": [{"src": "api/sentiment.py", "use": "@vercel/python"}],
+  "routes": [
+    {"src": "/analyze", "dest": "api/sentiment.py", "methods": ["POST"]}
+  ]
+}
