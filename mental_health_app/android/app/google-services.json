@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "94785060900",
-    "project_id": "chanudhi-aluthge",
-    "storage_bucket": "chanudhi-aluthge.firebasestorage.app"
+    "project_number": "your",
+    "project_id": "your project id",
+    "storage_bucket": "your storage bucket"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:94785060900:android:357720260581735fec98b1",
+        "mobilesdk_app_id": "your app id",
         "android_client_info": {
           "package_name": "com.example.mental_health_app"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyC_eyrrCe1G-nmBiJVOZV_NcG81oqotRw8"
+          "current_key": "your"
         }
       ],
       "services": {

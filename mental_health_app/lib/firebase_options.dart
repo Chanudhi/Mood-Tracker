@@ -41,46 +41,46 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAvFHHrjAyxaW49CPzg6doj8yDk8ZXdFfs',
-    appId: '1:94785060900:web:79b9732034671756ec98b1',
-    messagingSenderId: '94785060900',
-    projectId: 'chanudhi-aluthge',
-    authDomain: 'chanudhi-aluthge.firebaseapp.com',
-    storageBucket: 'chanudhi-aluthge.firebasestorage.app',
+    apiKey: 'your api key',
+    appId: 'your app id',
+    messagingSenderId: 'your messaging sender id',
+    projectId: 'your project id',
+    authDomain: 'your  auth domian',
+    storageBucket: 'your storage bucket',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyC_eyrrCe1G-nmBiJVOZV_NcG81oqotRw8',
-    appId: '1:94785060900:android:357720260581735fec98b1',
-    messagingSenderId: '94785060900',
-    projectId: 'chanudhi-aluthge',
-    storageBucket: 'chanudhi-aluthge.firebasestorage.app',
+    apiKey: 'your api key',
+    appId: 'your app id',
+    messagingSenderId: 'your messaging sender id',
+    projectId: 'your project id',
+    storageBucket: 'storage bucket',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAh2BEak-ck3sWRVFkKGuAueOw3nXTUgiA',
-    appId: '1:94785060900:ios:71a0dc7ca9d62734ec98b1',
-    messagingSenderId: '94785060900',
-    projectId: 'chanudhi-aluthge',
-    storageBucket: 'chanudhi-aluthge.firebasestorage.app',
+    apiKey: 'your api key',
+    appId: 'your app id',
+    messagingSenderId: 'your messaging sender id',
+    projectId: 'your project id',
+    storageBucket:'your-storage bucket',
     iosBundleId: 'com.example.mentalHealthApp',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyAh2BEak-ck3sWRVFkKGuAueOw3nXTUgiA',
-    appId: '1:94785060900:ios:71a0dc7ca9d62734ec98b1',
-    messagingSenderId: '94785060900',
-    projectId: 'chanudhi-aluthge',
-    storageBucket: 'chanudhi-aluthge.firebasestorage.app',
+    apiKey: 'your api key',
+    appId: 'your app id',
+    messagingSenderId: 'your messaging sender id',
+    projectId: 'your project id',
+    storageBucket:'your-storage bucket',
     iosBundleId: 'com.example.mentalHealthApp',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyAvFHHrjAyxaW49CPzg6doj8yDk8ZXdFfs',
-    appId: '1:94785060900:web:afb63df442e6a82bec98b1',
-    messagingSenderId: '94785060900',
-    projectId: 'chanudhi-aluthge',
-    authDomain: 'chanudhi-aluthge.firebaseapp.com',
-    storageBucket: 'chanudhi-aluthge.firebasestorage.app',
+    apiKey: 'your api key',
+    appId: 'your app id',
+    messagingSenderId: 'your messaging sender id',
+    projectId: 'your project id',
+    authDomain: 'your domain',
+    storageBucket: 'your-storage bucket',
   );
 }
