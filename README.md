@@ -35,8 +35,8 @@ dependencies:
   flutter_secure_storage: ^8.0.0 # Secure key storage
   table_calendar: ^3.0.9         # Mood history calendar
 ```
-Architecture Overview 🏗️
-
+### Architecture Overview 🏗️
+```
 mental_health_app/
 ├── flutter_app/                 # Flutter Frontend
 │   ├── lib/
@@ -51,7 +51,7 @@ mental_health_app/
 └── firebase/                    # Backend config
     ├── firestore.rules          # Security rules
     └── firebase_config.dart     # API keys (excluded from Git)
-
+```
 
 ## Installation 🛠️
 
