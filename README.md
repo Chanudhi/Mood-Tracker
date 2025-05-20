@@ -6,7 +6,7 @@ A privacy-focused mobile app for tracking daily moods,and  analyzing emotional t
 ## Features ✨
 
 - **Anonymous Sign-In**: Start using the app instantly without sharing personal data.
-- **Daily Mood Tracking**: Log your mood on a scale of 1–10 with emoji/slider input.
+- **Daily Mood Tracking**: Log your mood by selecting emoji that fits your current mood.
 - **Mood History Calendar**: Visualize your mood patterns with a color-coded calendar view.
 - **Weekly Mood Analysis**: Interactive charts showing 7-day emotional trends.
 
