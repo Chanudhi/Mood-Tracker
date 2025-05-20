@@ -92,4 +92,9 @@ Create a feature branch:
 git checkout -b feature/your-feature
 Submit a pull request.
 ```
+## Future Scope 🔮
+Journaling with AI Insights: Integrate Python NLP API for sentiment analysis.
 
+Reminders: Push notifications for daily mood logging.
+
+Export Data: Download mood history as CSV/PDF.
