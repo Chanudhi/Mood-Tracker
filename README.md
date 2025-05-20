@@ -16,6 +16,7 @@ A privacy-focused mobile app for tracking daily moods,and  analyzing emotional t
 ```bash
 git clone https://github.com/Chanudhi/Mood-Tracker.git
 cd mental_health_app
+```
 
 ### 2. Firebase Setup
 Create a Firebase project at console.firebase.google.com.
